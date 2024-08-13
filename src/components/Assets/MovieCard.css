@@ -1,0 +1,27 @@
+.movie-card {
+    background-color: rgb(242, 237, 237);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(248, 246, 246, 0.1);
+    margin: 15px;
+    overflow: hidden;
+    width: 200px;
+    text-align: center;
+   
+  }
+  
+  .movie-image {
+    width: 400%;
+    height: 300px;
+  }
+  
+  .movie-title {
+    font-size: 20px;
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  
+  .movie-rating {
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
